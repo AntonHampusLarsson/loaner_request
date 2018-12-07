@@ -7,14 +7,14 @@
         <hint/>
         <name>Loaner Request</name>
         <order>100</order>
-        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
+        <roles>x_cdltd_loaner_req.admin,x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-05 15:19:03</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fcf44484c59223007f44e07424dcb8de</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4f338844c59223007f44e07424dcb84c</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Loaner Request">4f338844c59223007f44e07424dcb84c</sys_scope>
         <sys_update_name>sys_app_application_fcf44484c59223007f44e07424dcb8de</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-05 15:19:03</sys_updated_on>
+        <sys_updated_on>2018-12-07 09:04:15</sys_updated_on>
         <title>Loaner Request</title>
         <view_name/>
     </sys_app_application>
